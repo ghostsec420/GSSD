@@ -59,8 +59,8 @@ isScam = False
 isScam = check3("url.txt","wordlist.txt")
   
 if isScam == True:
-    print(site + "is probably a scam")
+    print(site + " is probably a scam")
 else:
-	print(site + "is most likely not a scam")
+	print(site + " is most likely not a scam")
 
 
