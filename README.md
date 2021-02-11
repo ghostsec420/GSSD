@@ -3,7 +3,7 @@
 ## Introduction
 
 > We are GhostSec. We are the Ghosts of No Nation. GSSD is a quick tool that allows you to see if a site may be a scam or not. The method it uses is grabbing the HTML from the site, and then scanning it for potential negative keywords. Enjoy :)
-Follow on twitter.com/GhostSec__
+Follow on twitter.com/_GhostSec_
 
 
 ![](https://img.shields.io/badge/license-Mozilla%20Public%20License-blue) ![](https://img.shields.io/badge/python-v3.7-blue) ![](https://img.shields.io/badge/creator-GhostSec-red)
